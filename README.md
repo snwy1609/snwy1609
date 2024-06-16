@@ -5,17 +5,23 @@ Welcome to my GitHub profile! I'm a passionate Front-End Web Developer with a lo
 
 -🎓 I am a graduating student from Nueva Ecija University of Science and Technology, pursuing a Bachelor of Science in Information Technology. My journey of learning and growth doesn't end here; it's just the beginning.
 
+
 -🌱 I’m currently delving deeper into front-end development with JavaScript and different frameworks, enhancing my skills and exploring advanced concepts.
+
 
 -🔭 I’m actively seeking opportunities to expand my expertise and refine my skills in my chosen career path.
 
+
 -👯 I’m looking to collaborate on innovative front-end projects that challenge my skills and creativity.
+
 
 -🤔 I’m looking for help with tackling complex front-end challenges and mastering advanced JavaScript frameworks.
 
+
 -💬 Ask me about anything related to front-end development, JavaScript, CSS, and HTML.
 
--⚡ Fun fact:I f
+
+-⚡ Fun fact: Sometimes my code works, but I have no idea why! It's like magic, but without the magical powers. 🧙‍♂️💻🤷‍♂️
 
 
 ## Connect with Me

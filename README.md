@@ -1,4 +1,7 @@
-### Hi there 👋
+###  Hi there, I'm Jean 👋
+
+Welcome to my GitHub profile! I'm a passionate Front-End Web Developer with a love for creating dynamic and responsive web applications. Here's a bit about me and some of the work I've done.
+
 
 <!--
 **snwy1609/snwy1609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
